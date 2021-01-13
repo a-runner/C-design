@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\main.cpp(32,57): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=long
+          ]
+  语音信号时域分析2.vcxproj -> C:\Users\10918\source\repos\语音信号时域分析2\Debug\语音信号时域分析2.exe

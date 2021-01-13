@@ -1,0 +1,5 @@
+﻿  main.cpp
+  picture.cpp
+C:\Users\10918\source\repos\灰度直方图统计\灰度直方图统计\picture.cpp(74,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  灰度直方图统计.vcxproj -> C:\Users\10918\source\repos\灰度直方图统计\Debug\灰度直方图统计.exe

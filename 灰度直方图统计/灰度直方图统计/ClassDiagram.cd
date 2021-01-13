@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Picture" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAQAQAQAAAAAAAAAEAAAAgAAAAAAAAQAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagBITMAPFILEHEADER" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAACAAAAAAAAAAAAAAhAAAAAIAAAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagBITMAPINFOHEADER" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAQAAIAQAAABAAAAgAAAAAAAQAAAAABAABAEAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagRGBQUAD" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABIABABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="fileHeader" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="fileInfo" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="rgbq" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>picture.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+﻿  Lwc_wav.cpp
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(47,30): warning C4244: “初始化”: 从“double”转换到“size_t”，可能丢失数据
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(49,39): warning C4244: “参数”: 从“double”转换到“std::streamsize”，可能丢失数据
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(51,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(53,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(54,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(56,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(76,57): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+C:\Users\10918\source\repos\语音信号时域分析2\语音信号时域分析2\Lwc_wav.cpp(77,34): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  语音信号时域分析2.vcxproj -> C:\Users\10918\source\repos\语音信号时域分析2\x64\Debug\语音信号时域分析2.exe

@@ -1,0 +1,6 @@
+﻿  operate.cpp
+C:\Users\10918\source\repos\学校图书管理系统\学校图书管理系统\operate.cpp(192,7): warning C4101: “cc”: 未引用的局部变量
+C:\Users\10918\source\repos\学校图书管理系统\学校图书管理系统\operate.cpp(232,11): warning C4101: “ch”: 未引用的局部变量
+C:\Users\10918\source\repos\学校图书管理系统\学校图书管理系统\operate.cpp(268,13): warning C4101: “ch”: 未引用的局部变量
+C:\Users\10918\source\repos\学校图书管理系统\学校图书管理系统\operate.cpp(409,48): warning C4101: “m”: 未引用的局部变量
+  学校图书管理系统.vcxproj -> C:\Users\10918\source\repos\学校图书管理系统\Debug\学校图书管理系统.exe
